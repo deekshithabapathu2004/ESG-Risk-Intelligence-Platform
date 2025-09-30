@@ -3,6 +3,8 @@
 > **Proactive Identification of Corporate Sustainability Risk**  
 > An early-warning system that flags companies at risk of ESG deterioration — before scandals or regulatory non-compliance occur.
 
+
+
 <img width="1919" height="1193" alt="image" src="https://github.com/user-attachments/assets/edbae94f-50bd-483c-b0bb-255c53895b3c" />
 
 
